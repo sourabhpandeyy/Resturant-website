@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: #fff;
-  background-color: lightyellow;
+  background-color: yellow;
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -24,7 +24,7 @@ body {
 }
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: #557c3e;
+  color: ;
   font-size: 1.5em;
   text-transform: uppercase;
   font-weight: bold;
